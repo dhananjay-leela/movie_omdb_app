@@ -4,7 +4,7 @@
 
 <img src="https://www.linkpicture.com/q/Screenshot_20230822-131516.png" width="50%" height="50%">
 
-<img src="https://imgtr.ee/image/pyBHb" width="50%" height="50%">
+<img src="https://imgtr.ee/images/2023/08/22/4310eb066918acd72085674fa8c01e91.png" width="50%" height="50%">
 
 ## Build Versions and Configurations
 The android project is run under the following configurations
