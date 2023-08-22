@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Movie Social</string>
+    <string name="search_placeholder">Search</string>
+</resources>
